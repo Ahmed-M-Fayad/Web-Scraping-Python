@@ -1,13 +1,10 @@
 # Web Scraping with Python - Notes
 
-This repository contains my personal notes from the book *Web Scraping with Python*. The notes are organized by chapter and are in the form of Jupyter Notebooks. Each notebook includes key concepts, summaries, and important code snippets that I’ve learned while working through the book. These notes serve as a reference for myself and others interested in learning web scraping using Python.
+This repository contains my personal notes from the book *Web Scraping with Python*. The notes are in the form of a Jupyter Notebook, summarizing the key concepts, code examples, and important takeaways from Chapter 1.
 
 ## Contents
 
-- [Chapter 1: Your First Scraper](chapter_1.ipynb)
-- [Chapter 2: Advanced HTML Parsing](chapter_2.ipynb)
-- [Chapter 3: [Next Chapter Title]](chapter_3.ipynb)
-- ...
+- Chapter 1: Your First Web Scraper - `chapter_1.ipynb`
 
 ## License
 
