@@ -5,6 +5,8 @@ This repository contains my personal notes from the book *Web Scraping with Pyth
 ## Contents
 
 - Chapter 1: Your First Web Scraper - `chapter_1.ipynb`
+- Chapter 2: Advanced HTML Parsing - `chapter_2.ipynb`
+- Chapter 3: Writing Web Crawlers - `chapter_3.ipynb`
 
 ## License
 
